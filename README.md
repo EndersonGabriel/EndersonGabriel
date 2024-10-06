@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @EndersonGabriel
-- 🌱 I’m currently learning Python
-- 📫 You can talk to me on discord by blaZe#2003
+
